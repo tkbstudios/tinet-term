@@ -1,4 +1,6 @@
-# TINET Terminal
+# [DEPRECATED] TINET Terminal
+
+Services will need to make their own terminals to interact with their own services.
 
 Create a .env file (tinet-term dir) with the following structure:
 ```
